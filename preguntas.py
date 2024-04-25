@@ -13,6 +13,7 @@ Utilice el archivo `data.csv` para resolver las preguntas.
 """
 
 
+
 def pregunta_01():
 
     total = 0
